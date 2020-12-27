@@ -15,3 +15,6 @@ ARGUS-TV
   along with GNU Make; see the file COPYING.  If not, write to
   the Free Software Foundation, 675 Mass Ave, Cambridge, MA 02139, USA.
   http://www.gnu.org/copyleft/gpl.html
+
+
+This fork mainly focuses on updating the MediaPortal client component so it fits to the latest MediaPortal version. (https://www.team-mediaportal.com/)
